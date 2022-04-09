@@ -1,4 +1,4 @@
-# Termix-discord-bot
+# Termix Discord Bot 
 Advanced discord bot made in discord.py
 # Setup
 - `pip install discord.py`
